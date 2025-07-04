@@ -81,7 +81,7 @@
                     <p class="text-gray-400"># Clone the repository</p>
                     <p class="text-purple-400">git clone https://github.com/ls047/vue-ts-soa.git</p>
                     <p class="text-gray-400 mt-2"># Navigate to project directory</p>
-                    <p class="text-purple-400">cd vue-ts-soa</p>
+                    <p class="text-purple-400">cd vue-template</p>
                     <p class="text-gray-400 mt-2"># Install dependencies</p>
                     <p class="text-purple-400">npm install</p>
                     <p class="text-gray-400 mt-2"># Start development server</p>
